@@ -106,8 +106,8 @@ This project follows SOLID principles for maintainable and scalable code:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/reybex-mini-ecommerce.git
-cd reybex-mini-ecommerce
+git clone https://github.com/reybex/reybex-ecom-lite.git
+cd reybex-ecom-lite
 ```
 
 2. Install dependencies:
